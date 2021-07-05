@@ -1,0 +1,5 @@
+rootProject.name = "EGSTask"
+include ':app'
+include ':entities'
+include ':domain'
+include ':data'
